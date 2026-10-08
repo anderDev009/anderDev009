@@ -60,7 +60,7 @@ Vengo del backend (Go, C#, PHP): sigo el problema del pod a la línea de código
   <br/>
   <img src="https://streak-stats.demolab.com?user=anderDev009&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d" alt="GitHub streak" />
   <br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anderDev009&bg_color=0d1117&color=c9d1d9&line=39d353&point=58a6ff&area=true&area_color=39d353&hide_border=true" alt="Activity graph" />
+  <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Contribution activity" />
 </div>
 
 ### `$ tail -f /var/log/contributions`
