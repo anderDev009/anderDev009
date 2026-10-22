@@ -44,6 +44,7 @@ Vengo del backend (Go, C#, PHP): sigo el problema del pod a la línea de código
 | --- | --- |
 | [**infra-multiregion-tf**](https://github.com/anderDev009/infra-multiregion-tf) | Activo-activo en dos regiones (us-east-1 / us-west-2) con failover por DNS en Route 53, ALB, Auto Scaling y subredes privadas con NAT. |
 | [**terraform-alb-ec2-lab**](https://github.com/anderDev009/terraform-alb-ec2-lab) | VPC con ALB frente a dos EC2, Security Groups con mínimo privilegio y estado remoto en S3 con locking. |
+| [**lab-api-queues**](https://github.com/anderDev009/lab-api-queues) | API síncrona vs asíncrona (Go, PostgreSQL, RabbitMQ) en Kubernetes con Kustomize e Ingress de Traefik, medidas con k6 a 100, 500 y 1000 req/s. |
 
 ### `$ cat ~/certs`
 
